@@ -1,5 +1,6 @@
 /*
 Sketch Oct_17-16 Keyboard Relay Control.
+This is a branch off the Master on GitHub
  Wait for keyboard input:
     a = K1 ON
     b = K1 OFF
