@@ -3,7 +3,7 @@ Sketch Oct_12-16 Relay Control test.
  Turn on LED from pin 13 when K1 is turned on, K2 will be off.
  Wait 500 (1/2 second) 
  Turn off LED and K1 when K2 is turned on.
- Wait 500 (1/2 second)
+ Wait 500 (1/2 second) test from borsodi of the edit mode.
  Repeat
 */
  const int ledPin = 13; // LED light on the Arduino
